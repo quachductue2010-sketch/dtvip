@@ -1,0 +1,133 @@
+[
+  {"group":"Giao lưu","games":[
+    {"id":"nhom-chat","name":"Nhóm Chat","links":[{"label":"Mở liên kết","url":"#"}]},
+    {"id":"keo-tin-tuc","name":"Kèo & Tin tức","links":[{"label":"Mở liên kết","url":"#"}]},
+    {"id":"nhom-dt-vip","name":"Nhóm DT Vip","links":[{"label":"Mở liên kết","url":"#"}]}
+  ]},
+  {"group":"OKVIP","games":[
+    {"id":"cm88","name":"CM88","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"on68","name":"ON68","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"sc88","name":"SC88","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"c168","name":"C168","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"fly88","name":"FLY88","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"hi88","name":"HI88","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"f8bet","name":"F8BET","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"shbet","name":"SHBET","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"new88","name":"NEW88","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"mb66","name":"MB66","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"789bet","name":"789BET","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"f168","name":"F168","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"jun88v1","name":"JUN88V1","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"jun88v2","name":"JUN88V2","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"78win","name":"78WIN","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"qq88","name":"QQ88","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"ok9","name":"OK9","links":[{"label":"Link chính","url":"#"}]}
+  ]},
+  {"group":"KJC","games":[
+    {"id":"mm88","name":"MM88","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"gg88","name":"GG88","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"llwin","name":"LLWIN","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"rr88","name":"RR88","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"xx88","name":"XX88","links":[{"label":"Link chính","url":"#"}]}
+  ]},
+  {"group":"NOHU","games":[
+    {"id":"mmoo","name":"MMOO","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"789p","name":"789P","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"go99","name":"GO99","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"tt88","name":"TT88","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"nohu","name":"NOHU","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"uy88","name":"UY88","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"ex88","name":"EX88","links":[{"label":"Link chính","url":"#"}]}
+  ]},
+  {"group":"22VIP","games":[
+    {"id":"888new","name":"888NEW","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"28bet","name":"28BET","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"tv88","name":"TV88","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"888vi","name":"888VI","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"888p","name":"888P","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"win678","name":"WIN678","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"888now","name":"888NOW","links":[{"label":"Link chính","url":"#"}]}
+  ]},
+  {"group":"ABCVIP","games":[
+    {"id":"abc8","name":"ABC8","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"j88","name":"J88","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"u888","name":"U888","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"88clb","name":"88CLB","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"8kbet","name":"8KBET","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"xx8","name":"XX8","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"ad88","name":"AD88","links":[{"label":"Link chính","url":"#"}]}
+  ]},
+  {"group":"OK33","games":[
+    {"id":"u9win","name":"U9WIN","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"pkwin","name":"PKWIN","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"v8win","name":"V8WIN","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"qqvn","name":"QQVN","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"vswin","name":"VSWIN","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"ok33","name":"OK33","links":[{"label":"Link chính","url":"#"}]}
+  ]},
+  {"group":"OKWIN","games":[
+    {"id":"uu88","name":"UU88","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"tr88","name":"TR88","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"nk88","name":"NK88","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"tg88-okwin","name":"TG88","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"go8","name":"GO8","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"lc88","name":"LC88","links":[{"label":"Link chính","url":"#"}]}
+  ]},
+  {"group":"Khác","games":[
+    {"id":"8qbet","name":"8QBET","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"x88","name":"X88","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"yg88","name":"YG88","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"ev88","name":"EV88","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"789k","name":"789K","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"888top","name":"888TOP","links":[{"label":"Link chính","url":"#"}]}
+  ]},
+  {"group":"Nhà Jin88","games":[
+    {"id":"ak168","name":"AK168","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"ks168","name":"KS168","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"jin88","name":"Jin88","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"ke789","name":"KE789","links":[{"label":"Link chính","url":"#"}]}
+  ]},
+  {"group":"Nhà BL555","games":[
+    {"id":"vf555","name":"VF555","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"kk55","name":"KK55","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"bl555","name":"BL555","links":[{"label":"Link chính","url":"#"}]}
+  ]},
+  {"group":"Nhà SM88","games":[
+    {"id":"jd88","name":"JD88","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"sms88","name":"SMS88","links":[{"label":"Link chính","url":"#"}]}
+  ]},
+  {"group":"Nhà AO88","games":[
+    {"id":"qs88","name":"QS88","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"lv88","name":"LV88","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"ao88","name":"AO88","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"jw88","name":"JW88","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"rwin","name":"RWIN","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"dn88","name":"DN88","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"88vbet","name":"88VBet","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"lx88","name":"LX88","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"tg88-ao88","name":"TG88","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"ea88","name":"EA88","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"fv88","name":"FV88","links":[{"label":"Link chính","url":"#"}]}
+  ]},
+  {"group":"Nhà FFOK","games":[
+    {"id":"95vn-ffok","name":"95VN - FFOK","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"32win","name":"32WIN","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"ok365","name":"OK365","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"okvnd","name":"OKVND","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"89bet","name":"89Bet","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"hubet","name":"HuBet","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"king88","name":"King88","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"hello88","name":"Hello88","links":[{"label":"Link chính","url":"#"}]}
+  ]},
+  {"group":"OKATM","games":[
+    {"id":"nh88","name":"NH88","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"rr99","name":"RR99","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"69vn","name":"69VN","links":[{"label":"Link chính","url":"#"}]}
+  ]},
+  {"group":"Nhà PG","games":[
+    {"id":"pg55","name":"PG55","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"pg66","name":"PG66","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"pg88","name":"PG88","links":[{"label":"Link chính","url":"#"}]},
+    {"id":"pg99","name":"PG99","links":[{"label":"Link chính","url":"#"}]}
+  ]}
+]
